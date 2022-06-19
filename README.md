@@ -31,5 +31,5 @@ BalenaEtcher and Rufus are typical flashers
 
  - [Manjaro](https://manjaro.org)
  - [readme maker used](https://readme.so)
-
+ - [LXQT team](https://lxqt-project.org/)
 
