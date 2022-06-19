@@ -4,7 +4,7 @@ i do not develope the iso, i simply did generate using the manjaro building cust
 
 please try it on a virtual machine i do not guarantee for it to work meaning i cant do anything about the erros
 
-all credits to Manjaro team , LXQT team and KDE team
+all credits to Manjaro team , LXQT team and KDE team for KWIN
 
 
 
